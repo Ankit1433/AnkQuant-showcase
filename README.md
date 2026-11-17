@@ -34,7 +34,7 @@ Explore the running application at **[ankquant.in](https://ankquant.in)**.
 | Layer | Technologies |
 | --- | --- |
 | Backend | Node.js, Express.js, JavaScript |
-| Frontend | HTML, CSS, vanilla JavaScript |
+| Frontend | HTML, CSS, ReactJs |
 | APIs and live updates | REST endpoints, Server-Sent Events (SSE), WebSockets where applicable |
 | Database | PostgreSQL via Supabase |
 | Market analysis | Custom technical-indicator and signal-evaluation logic |
