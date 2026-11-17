@@ -1,0 +1,16 @@
+Repository name: ankquant-showcase
+Visibility: Public
+Description: AnkQuant — Indian stock market intelligence platform for intraday and swing screening, signal monitoring and paper-trading analytics. Public portfolio showcase; core source private.
+Website: https://ankquant.in
+Suggested topics: nodejs, expressjs, javascript, stock-market, market-scanner, technical-analysis, portfolio-project, trading-signals, supabase, docker
+
+SETUP
+1. FIRST: Switch https://github.com/Ankit1433/AnkQuant to Private using Settings > General > Danger Zone > Change repository visibility.
+2. Visit https://github.com/new and create a Public repo named ankquant-showcase WITHOUT initializing README.
+3. Upload README.md and the docs/ directory using Add file > Upload files (GitHub web uploads may not preserve folders from a ZIP; extract it first and drag in the files/folders).
+4. Add the description, website and topics using the repo's About gear icon.
+5. On https://github.com/Ankit1433 pin ankquant-showcase via Customize your pins.
+6. Verify logged-out: showcase readable; original AnkQuant repo inaccessible.
+
+SECURITY
+If AnkQuant source was public before, existing clones/forks or caches may still exist. Rotate any credentials previously committed or published, and verify frontend bundles/network endpoints don't reveal protected logic.
